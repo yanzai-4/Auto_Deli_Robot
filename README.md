@@ -2,8 +2,7 @@
 
 ## Project Demo
 
-You can check out our Full [Project Demo Video](https://www.youtube.com/watch?v=tzTTkthyS_k) on Youtube.
-You can also watch this [Quick Demo Video](https://www.youtube.com/watch?v=kx7PS1gOcAw) which is a replay of one of our test run
+You can check out our Full [Project Demo Video](https://drive.google.com/file/d/1Yv5ODyAOx7SA_VIIy4futuZDS9lSGUw0/view?usp=sharing) on Drive.
 
 ![Robot Image](https://github.com/CMPE195-Group-28-Auto-Delivery-Robot/Auto_Deli_Robot/blob/main/RobotImage.jpg?raw=true)
 
