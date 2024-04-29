@@ -2,7 +2,7 @@
 
 ## Project Demo
 
-You can check out our Full [Project Demo Video](https://drive.google.com/file/d/1Yv5ODyAOx7SA_VIIy4futuZDS9lSGUw0/view?usp=sharing), and Our [Project Poster](https://docs.google.com/presentation/d/15J9EV6Ldmtv3bceEVrtHY0l34OyZT7eu/edit?usp=sharing&ouid=111715498776220747550&rtpof=true&sd=true)  on Drive
+You can check out our Full [Project Demo Video](https://drive.google.com/file/d/1Yv5ODyAOx7SA_VIIy4futuZDS9lSGUw0/view?usp=sharing), and Our [Project Poster](https://docs.google.com/presentation/d/1oKkuoiava45rLmqwfn7fAv8R1l1rdFWBC2zN_-Lkw-c/edit?usp=sharing)  on Drive
 
 
 ![Robot Image](https://github.com/yanzai-4/Auto_Deli_Robot/blob/main/RobotImage2.jpg)
